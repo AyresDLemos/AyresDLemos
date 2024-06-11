@@ -4,6 +4,14 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: ayresdlemos@outlook.com
 - 😄 Pronouns: Ele/Dele
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ##
 <picture>
   <source
