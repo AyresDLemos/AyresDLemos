@@ -19,3 +19,10 @@
 <a href="https://github.com/ayresdlemos">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayresdlemos&layout=compact&langs_count=8&card_width=30&theme=dark" />
 </a>
+
+<div style="display: inline_block"><br> 
+<img align="center" alt="ayres-css" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+<img align="center" alt="ayres-css" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" alt="ayres-css" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="ayres-css" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
+</div>
