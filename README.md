@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Ayres D'Lemos
 
-- 🔭 Estou migrando de carreira/ [Sobre mim...]()
+- 🔭 Estou migrando de carreira/ Sobre mim...
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: ayresdlemos@outlook.com
 - 😄 Pronouns: Ele/Dele
