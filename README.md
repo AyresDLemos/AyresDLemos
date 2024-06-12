@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Ayres D'Lemos
 
-- 🔭 Estou migrando de carreira 
+- 🔭 Estou migrando de carreira/ [Sobre mim...]()
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: ayresdlemos@outlook.com
 - 😄 Pronouns: Ele/Dele
@@ -47,3 +47,12 @@
 </div>
 
 ##
+### Sobre Mim
+
+Olá! Eu sou um profissional em transição de carreira, atualmente estudando Análise e Desenvolvimento de Sistemas. Após anos de experiência em outra área, decidi seguir minha paixão pela tecnologia e estou entusiasmado com essa nova jornada.
+
+Estou apenas começando, mas já me sinto animado com as oportunidades e desafios que a área de TI proporciona. Meu objetivo é adquirir conhecimentos sólidos e desenvolver habilidades práticas que me permitam contribuir de maneira significativa para projetos e equipes.
+
+Tenho estudado intensivamente e estou sempre em busca de novos aprendizados e experiências que possam me ajudar a crescer como profissional. Estou ansioso para me juntar a esse campo dinâmico e inovador, e estou determinado a fazer a diferença com dedicação e criatividade.
+
+Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha trajetória e entrar em contato.
