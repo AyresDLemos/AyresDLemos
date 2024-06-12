@@ -24,20 +24,14 @@
 ###
 
 ##
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ayresdlemos&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ayresdlemos&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ayresdlemos&show_icons=true" />
-</picture>
-<a href="https://github.com/ayresdlemos">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayresdlemos&layout=compact&langs_count=8&card_width=30&theme=dark" />
-</a>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayresdlemos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayresdlemos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="180" alt="languages graph"  />
+</div>
+
+###
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="ayres-css" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
